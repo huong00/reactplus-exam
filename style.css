@@ -34,7 +34,7 @@
   position: absolute;
   width: 26.55px;
   height: 26.55px;
-  background: url("../img/Logo.png");
+  background: url("/img/Logo.png");
 }
 .group-logo p {
   padding-left: 30px;
@@ -155,7 +155,7 @@
   top: 20%;
   bottom: 25%;
   background: #ffffff;
-  background: url("../img/Icon.png");
+  background: url("/img/Icon.png");
   background-repeat: no-repeat;
 }
 .vector-1 {
@@ -165,7 +165,7 @@
   left: 783.44px;
   top: 153.31px;
   border: 2.65476px solid #ffffff;
-  background: url("../img/Vector1.png");
+  background: url("/img/Vector1.png");
 }
 .ellipse {
   position: absolute;
@@ -173,7 +173,7 @@
   height: 39.82px;
   left: 1357.15px;
   top: 122.12px;
-  background: url("../img/2vongtron.png");
+  background: url("/img/2vongtron.png");
 }
 .polygon2 {
   position: absolute;
@@ -184,7 +184,7 @@
   border: 1.99107px solid #e7e7e7;
   box-sizing: border-box;
   transform: rotate(-28.66deg);
-  background: url("../img/polygon 2");
+  background: url("/img/Polygon2.png");
   background-repeat: no-repeat;
 }
 .polygon3 {
@@ -196,7 +196,7 @@
   border: 0.66369px solid #e7e7e7;
   box-sizing: border-box;
   transform: rotate(-28.66deg);
-  background: url("../img/polygon 3");
+  background: url("/img/Polygon3.png");
   background-repeat: no-repeat;
 }
 .polygon4 {
@@ -208,7 +208,7 @@
   border: 1.99107px solid #e7e7e7;
   box-sizing: border-box;
   transform: rotate(-28.66deg);
-  background: url("../img/polygon 2");
+  background: url("/img/Polygon2.png");
   background-repeat: no-repeat;
 }
 .polygon5 {
@@ -220,7 +220,7 @@
   border: 0.66369px solid #e7e7e7;
   box-sizing: border-box;
   transform: rotate(-28.66deg);
-  background: url("../img/polygon 3");
+  background: url("/img/Polygon3.png");
   background-repeat: no-repeat;
 }
 .icon-add {
@@ -230,7 +230,7 @@
   left: 1357.44px;
   top: 475.2px;
   background: #e7e7e7;
-  background: url("../img/Icon-add.png");
+  background: url("/img/Icon-add.png");
   background-repeat: no-repeat;
 }
 .rectangle {
@@ -243,7 +243,7 @@
   border: 1.32738px solid #ffffff;
   border-radius: 14.72px;
   transform: rotate(23.64deg);
-  background: url("../img/Reactangle 9541.png");
+  background: url("/img/Reactangle9541.png");
 }
 .avt {
   position: absolute;
@@ -251,7 +251,7 @@
   height: 630.11px;
   left: 940.31px;
   border-radius: 14.72px;
-  background: url("../img/Group\ 162532.png");
+  background: url("/img/Group162532.png");
   background-repeat: no-repeat;
 }
 .question {
@@ -294,7 +294,7 @@
   left: 170px;
   top: 737px;
 
-  background: url("../img/image 4.png");
+  background: url("/img/image 4.png");
 }
 .oval {
   position: absolute;
@@ -304,7 +304,7 @@
   top: 273px;
 
   background: #5454d4;
-  background: url("../img/Oval.png");
+  background: url("/img/Oval.png");
 }
 .play-btn {
   position: absolute;
@@ -313,7 +313,7 @@
   left: 54px;
   top: 50px;
   background: #ffffff;
-  background: url("../img/Path.png");
+  background: url("/img/Path.png");
 }
 .services-content {
   position: absolute;
@@ -396,7 +396,7 @@
   height: 69px;
   left: 156px;
   top: 20px;
-  background: url("../img/Icon-dev.png");
+  background: url("/img/Icon-dev.png");
 }
 .icon-ux {
   position: absolute;
@@ -404,7 +404,7 @@
   height: 69px;
   left: 156px;
   top: 20px;
-  background: url("../img/Icon-ux.png");
+  background: url("/img/Icon-ux.png");
 }
 .icon-gra {
   position: absolute;
@@ -412,7 +412,7 @@
   height: 69px;
   left: 156px;
   top: 20px;
-  background: url("../img/Icon-gra.png");
+  background: url("/img/Icon-gra.png");
 }
 .icon-mot {
   position: absolute;
@@ -420,7 +420,7 @@
   height: 69px;
   left: 156px;
   top: 20px;
-  background: url("../img/Icon-mot.png");
+  background: url("/img/Icon-mot.png");
 }
 .icon-pho {
   position: absolute;
@@ -428,7 +428,7 @@
   height: 69px;
   left: 156px;
   top: 20px;
-  background: url("../img/Icon-Pho.png");
+  background: url("/img/Icon-Pho.png");
 }
 .icon-vid {
   position: absolute;
@@ -436,7 +436,7 @@
   height: 69px;
   left: 156px;
   top: 20px;
-  background: url("../img/Icon-vid.png");
+  background: url("/img/Icon-vid.png");
 }
 .content-service-child {
   position: absolute;
@@ -482,7 +482,7 @@
   top: 2325.03px;
 
   transform: rotate(25.34deg);
-  background: url("..../img/icon-add2.png");
+  background: url("/img/icon-add2.png");
   background-repeat: no-repeat;
 }
 .group-awesome {
@@ -496,7 +496,7 @@
   position: absolute;
   width: 685px;
   height: 79px;
-left: 50px;
+  left: 50px;
   font-family: Nunito Sans;
   font-style: normal;
   font-weight: 800;
@@ -510,7 +510,7 @@ left: 50px;
   width: 82px;
   height: 85px;
   left: 1100px;
-  background: url("../img/Group\ 162529.png");
+  background: url("/img/Group162529.png");
   transform: rotate(-27.37deg);
 }
 .group-phim {
@@ -526,7 +526,7 @@ left: 50px;
   left: 20px;
   top: 10px;
 
-  background: url(../img/phim1.png);
+  background: url("/img/phim1.png");
   border-radius: 12px;
 }
 .phim2 {
@@ -536,7 +536,7 @@ left: 50px;
   left: 435px;
   top: 70px;
 
-  background: url(../img/phim2.png);
+  background: url("/img/phim2.png");
   border-radius: 12px;
 }
 .phim3 {
@@ -546,7 +546,7 @@ left: 50px;
   right: 20px;
   bottom: 10px;
 
-  background: url(../img/phim3.png);
+  background: url("/img/phim3.png");
   border-radius: 12px;
 }
 .tab {
@@ -555,7 +555,7 @@ left: 50px;
   height: 8px;
   left: 570px;
   bottom: 0;
-  background: url("../img/Group\ 162512.png");
+  background: url("/img/Group162512.png");
 }
 .vector3 {
   position: absolute;
@@ -563,7 +563,7 @@ left: 50px;
   height: 28px;
   left: 75px;
   top: 560px;
-  background: url("../img/Vector1.png");
+  background: url("/img/Vector1.png");
   background-repeat: no-repeat;
 }
 .contact {
@@ -703,132 +703,125 @@ left: 50px;
     height: 44px;
     left: 24px;
     top: 505px;
-    
   }
-  .avt{
+  .avt {
     position: absolute;
     width: 527.96px;
     height: 472.72px;
     left: -60.8px;
     top: 641.45px;
   }
-  .question{
+  .question {
     position: absolute;
     width: 327px;
     height: 108px;
     left: 24px;
     top: 1154px;
-    
+
     font-family: Graphik;
     font-style: normal;
     font-weight: bold;
     font-size: 36px;
     line-height: 150%;
     /* or 54px */
-    
-    
-    color: #FFFFFF;
+
+    color: #ffffff;
   }
-  .question2{
+  .question2 {
     position: absolute;
     width: 327px;
     height: 48px;
     left: 24px;
     top: 1292px;
-    
+
     font-family: Nunito Sans;
     font-style: normal;
     font-weight: normal;
     font-size: 16px;
     line-height: 150%;
     /* or 24px */
-    
-    
+
     color: rgba(255, 255, 255, 0.7);
   }
-  .play-video{
+  .play-video {
     position: absolute;
     width: 327px;
     height: 184px;
     left: 24px;
     top: 1390px;
   }
-  .services-content{
+  .services-content {
     position: absolute;
     width: 327px;
     height: 108px;
     left: 24px;
     top: 1714px;
-    
+
     font-family: Graphik;
     font-style: normal;
     font-weight: bold;
     font-size: 36px;
     line-height: 150%;
     /* or 54px */
-    
-    
-    color: #FFFFFF;
+
+    color: #ffffff;
   }
-  .group-service{
+  .group-service {
     display: flex;
     flex-direction: column;
     align-items: flex-start;
     padding: 0px;
-    
+
     position: absolute;
     width: 375px;
     height: 1884px;
     left: 0px;
     top: 1872px;
   }
-  .our-awesome-content{
+  .our-awesome-content {
     position: absolute;
     width: 327px;
     height: 108px;
     left: -80px;
     top: 34px;
-    
+
     font-family: Graphik;
     font-style: normal;
     font-weight: bold;
     font-size: 36px;
     line-height: 150%;
     /* or 54px */
-    
-    
-    color: #FFFFFF;
+
+    color: #ffffff;
   }
-  .group-phim{
+  .group-phim {
     position: absolute;
     width: 375px;
     height: 294px;
     left: -150px;
     top: 150px;
   }
-  .contact-content{
+  .contact-content {
     position: absolute;
     width: 327px;
     height: 162px;
     left: -110px;
     top: 0;
-    
+
     font-family: Graphik;
     font-style: normal;
     font-weight: bold;
     font-size: 36px;
     line-height: 150%;
     /* or 54px */
-    
-    
-    color: #FFFFFF;
+
+    color: #ffffff;
   }
-  .contact-btn{
+  .contact-btn {
     left: -110px;
     top: 165px;
   }
-  .footer{
-      display: none;
+  .footer {
+    display: none;
   }
-
 }
